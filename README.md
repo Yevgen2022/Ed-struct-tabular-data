@@ -3,7 +3,7 @@
 A project focused on building a fully semantic HTML table structure to represent shopping data. The task emphasized proper use of table sections (caption, thead, tbody, tfoot), merged rows and columns, and use of `<colgroup>` for column-level styling or grouping.
 
 ## Live Demo
-[Click here to view](https://structuring-tabular-data-f0b5ea.gitlab.io)
+[Click here to view](https://yevgen2022.github.io/Ed-struct-tabular-data/)
 
 ---
 
